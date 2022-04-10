@@ -1,0 +1,39 @@
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\MLModel.zip
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casas.exe
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casas.deps.json
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casas.runtimeconfig.json
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casas.runtimeconfig.dev.json
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casas.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\ref\Prever valor de casas.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casas.pdb
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.Core.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.Data.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.PCA.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.Transforms.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.CpuMath.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.DataView.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Microsoft.ML.FastTree.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casasML.Model.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\bin\Debug\net5.0\Prever valor de casasML.Model.pdb
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.csproj.AssemblyReference.cache
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.AssemblyInfoInputs.cache
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.AssemblyInfo.cs
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.csproj.CoreCompileInputs.cache
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.csproj.CopyComplete
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\ref\Prever valor de casas.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.pdb
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casas\obj\Debug\net5.0\Prever valor de casas.genruntimeconfig.cache

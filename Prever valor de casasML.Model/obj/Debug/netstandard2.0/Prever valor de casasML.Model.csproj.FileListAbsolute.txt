@@ -1,0 +1,11 @@
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\bin\Debug\netstandard2.0\Prever valor de casasML.Model.deps.json
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\bin\Debug\netstandard2.0\Prever valor de casasML.Model.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\bin\Debug\netstandard2.0\Prever valor de casasML.Model.pdb
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\obj\Debug\netstandard2.0\Prever valor de casasML.Model.csproj.AssemblyReference.cache
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\obj\Debug\netstandard2.0\Prever valor de casasML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\obj\Debug\netstandard2.0\Prever valor de casasML.Model.AssemblyInfoInputs.cache
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\obj\Debug\netstandard2.0\Prever valor de casasML.Model.AssemblyInfo.cs
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\obj\Debug\netstandard2.0\Prever valor de casasML.Model.csproj.CoreCompileInputs.cache
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\obj\Debug\netstandard2.0\Prever valor de casasML.Model.dll
+C:\Users\luanc\Desktop\Faculdade\Humberto\Prever valor de casas\Prever valor de casasML.Model\obj\Debug\netstandard2.0\Prever valor de casasML.Model.pdb

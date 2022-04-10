@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prever valor de casas", "Prever valor de casas\Prever valor de casas.csproj", "{745CC6A1-4D02-48FD-8C93-1F2ABC94A70A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prever valor de casasML.Model", "Prever valor de casasML.Model\Prever valor de casasML.Model.csproj", "{B539A31A-D736-444F-A90A-B853E4AF08C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prever valor de casasML.ConsoleApp", "Prever valor de casasML.ConsoleApp\Prever valor de casasML.ConsoleApp.csproj", "{65BA2095-EC30-4311-B3C7-45EC8936CB82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745CC6A1-4D02-48FD-8C93-1F2ABC94A70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745CC6A1-4D02-48FD-8C93-1F2ABC94A70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745CC6A1-4D02-48FD-8C93-1F2ABC94A70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745CC6A1-4D02-48FD-8C93-1F2ABC94A70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B539A31A-D736-444F-A90A-B853E4AF08C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B539A31A-D736-444F-A90A-B853E4AF08C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B539A31A-D736-444F-A90A-B853E4AF08C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B539A31A-D736-444F-A90A-B853E4AF08C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BA2095-EC30-4311-B3C7-45EC8936CB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BA2095-EC30-4311-B3C7-45EC8936CB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BA2095-EC30-4311-B3C7-45EC8936CB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BA2095-EC30-4311-B3C7-45EC8936CB82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242E5DBA-348F-453A-A5D6-BA9C0B954FD7}
+	EndGlobalSection
+EndGlobal
